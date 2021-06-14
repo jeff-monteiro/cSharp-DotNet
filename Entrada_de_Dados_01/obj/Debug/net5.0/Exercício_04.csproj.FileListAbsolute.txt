@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/Exercício_04
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/Exercício_04.deps.json
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/Exercício_04.runtimeconfig.json
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/Exercício_04.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/Exercício_04.dll
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/ref/Exercício_04.dll
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/bin/Debug/net5.0/Exercício_04.pdb
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.csprojAssemblyReference.cache
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.dll
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/ref/Exercício_04.dll
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.pdb
+/home/jefferson-dev/Documentos/Workspace/Exercício_04/obj/Debug/net5.0/Exercício_04.genruntimeconfig.cache

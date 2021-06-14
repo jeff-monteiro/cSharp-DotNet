@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/Média_Idade
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/Média_Idade.deps.json
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/Média_Idade.runtimeconfig.json
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/Média_Idade.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/Média_Idade.dll
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/ref/Média_Idade.dll
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/bin/Debug/net5.0/Média_Idade.pdb
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.csprojAssemblyReference.cache
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.dll
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/ref/Média_Idade.dll
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.pdb
+/home/jefferson-dev/Documentos/Workspace/URI_Exercício/Média_Idade/obj/Debug/net5.0/Média_Idade.genruntimeconfig.cache

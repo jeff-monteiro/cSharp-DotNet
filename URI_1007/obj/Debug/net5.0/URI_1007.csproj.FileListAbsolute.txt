@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/URI_1007
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/URI_1007.deps.json
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/URI_1007.runtimeconfig.json
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/URI_1007.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/URI_1007.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/ref/URI_1007.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/bin/Debug/net5.0/URI_1007.pdb
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/ref/URI_1007.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.pdb
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.genruntimeconfig.cache
+/home/jefferson-dev/Documentos/GitHub/NetCore/URI_1007/obj/Debug/net5.0/URI_1007.csproj.AssemblyReference.cache

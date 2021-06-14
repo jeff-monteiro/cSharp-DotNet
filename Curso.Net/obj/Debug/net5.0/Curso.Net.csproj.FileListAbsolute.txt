@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/Curso.Net
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/Curso.Net.deps.json
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/Curso.Net.runtimeconfig.json
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/Curso.Net.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/Curso.Net.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/ref/Curso.Net.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/bin/Debug/net5.0/Curso.Net.pdb
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.csprojAssemblyReference.cache
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/ref/Curso.Net.dll
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.pdb
+/home/jefferson-dev/Documentos/GitHub/NetCore/Curso.Net/obj/Debug/net5.0/Curso.Net.genruntimeconfig.cache

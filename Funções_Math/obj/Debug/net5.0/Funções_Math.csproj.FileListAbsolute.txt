@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/Funções_Math
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/Funções_Math.deps.json
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/Funções_Math.runtimeconfig.json
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/Funções_Math.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/Funções_Math.dll
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/ref/Funções_Math.dll
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/bin/Debug/net5.0/Funções_Math.pdb
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.csprojAssemblyReference.cache
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.dll
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/ref/Funções_Math.dll
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.pdb
+/home/jefferson-dev/Documentos/Workspace/Funções_Math/obj/Debug/net5.0/Funções_Math.genruntimeconfig.cache

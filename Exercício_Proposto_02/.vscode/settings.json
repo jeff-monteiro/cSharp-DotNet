@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.automationShell.linux": "true",
+  "debug.internalConsoleOptions": "openOnSessionStart",
+  "debug.terminal.clearBeforeReusing": true,
+}

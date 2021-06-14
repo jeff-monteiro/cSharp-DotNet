@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/URI_1001
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/URI_1001.deps.json
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/URI_1001.runtimeconfig.json
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/URI_1001.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/URI_1001.dll
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/ref/URI_1001.dll
+/home/jefferson-dev/Documentos/Workspace/URI_1001/bin/Debug/net5.0/URI_1001.pdb
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.csprojAssemblyReference.cache
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.dll
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/ref/URI_1001.dll
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.pdb
+/home/jefferson-dev/Documentos/Workspace/URI_1001/obj/Debug/net5.0/URI_1001.genruntimeconfig.cache
