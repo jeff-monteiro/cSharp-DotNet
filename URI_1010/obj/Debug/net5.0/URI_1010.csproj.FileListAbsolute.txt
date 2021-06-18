@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/URI_1010
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/URI_1010.deps.json
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/URI_1010.runtimeconfig.json
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/URI_1010.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/URI_1010.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/ref/URI_1010.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/bin/Debug/net5.0/URI_1010.pdb
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.csproj.AssemblyReference.cache
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/ref/URI_1010.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.pdb
+/home/jefferson-dev/Documentos/Curso-DotNet/URI_1010/obj/Debug/net5.0/URI_1010.genruntimeconfig.cache
