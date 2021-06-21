@@ -7,6 +7,7 @@ namespace URI_1008
     {
         static void Main(string[] args)
         {
+            //Programa que mostra salário di funcionário.
             int matricula, horas;
             double valorHora, salario;
 
