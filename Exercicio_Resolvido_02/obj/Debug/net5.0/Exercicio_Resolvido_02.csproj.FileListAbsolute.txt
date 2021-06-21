@@ -1,0 +1,16 @@
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/Exercicio_Resolvido_02
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/Exercicio_Resolvido_02.deps.json
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/Exercicio_Resolvido_02.runtimeconfig.json
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/Exercicio_Resolvido_02.runtimeconfig.dev.json
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/Exercicio_Resolvido_02.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/ref/Exercicio_Resolvido_02.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/bin/Debug/net5.0/Exercicio_Resolvido_02.pdb
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.csproj.AssemblyReference.cache
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.AssemblyInfo.cs
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/ref/Exercicio_Resolvido_02.dll
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.pdb
+/home/jefferson-dev/Documentos/Curso-DotNet/Exercicio_Resolvido_02/obj/Debug/net5.0/Exercicio_Resolvido_02.genruntimeconfig.cache
