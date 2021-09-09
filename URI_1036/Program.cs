@@ -9,9 +9,11 @@ namespace URI_1036
         {
             double a, b, c, delta, r1, r2;
 
-            a = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            c = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            String[] vet = Console.ReadLine().Split(' '); 
+
+            a = double.Parse(vet[0], CultureInfo.InvariantCulture);
+            b = double.Parse(vet[1], CultureInfo.InvariantCulture);
+            c = double.Parse(vet[2], CultureInfo.InvariantCulture);
 
             delta = Math.Pow(b, 2.0) - 4 * a * c;
 
