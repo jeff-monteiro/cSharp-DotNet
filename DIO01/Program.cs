@@ -27,6 +27,8 @@ namespace DIO01
 
             if(mediaFinal >= 7){
                 Console.WriteLine("Aluno: " + nome + "APROVADO!");
+            }else{
+                Console.WriteLine("Aluno: " + nome + "REPROVADO");
             }
         }
     }
