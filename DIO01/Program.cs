@@ -24,6 +24,10 @@ namespace DIO01
             mediaFinal = (nota1 + nota2 + nota3 + nota4) / 4;
 
             Console.WriteLine("A média final do aluno: " + nome + " foi: " + mediaFinal.ToString("F2", CultureInfo.InvariantCulture));
+
+            if(mediaFinal >= 7){
+                Console.WriteLine("Aluno: " + nome + "APROVADO!");
+            }
         }
     }
 }
