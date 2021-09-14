@@ -26,9 +26,9 @@ namespace DIO01
             Console.WriteLine("A média final do aluno: " + nome + " foi: " + mediaFinal.ToString("F2", CultureInfo.InvariantCulture));
 
             if(mediaFinal >= 7){
-                Console.WriteLine("Aluno: " + nome + "APROVADO!");
+                Console.WriteLine("Aluno: " + nome + " APROVADO!");
             }else{
-                Console.WriteLine("Aluno: " + nome + "REPROVADO");
+                Console.WriteLine("Aluno: " + nome + " REPROVADO");
             }
         }
     }
