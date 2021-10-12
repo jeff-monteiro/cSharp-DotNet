@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/Exercício_EstruturaCondicional_II/Exercício_EstruturaCondicional_II.csproj",
+      "projectUniqueName": "/home/jefferson-dev/Documentos/cSharp-Dotnet/Exercício_EstruturaCondicional_II/Exercício_EstruturaCondicional_II.csproj",
       "projectName": "Exercício_EstruturaCondicional_II",
-      "projectPath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/Exercício_EstruturaCondicional_II/Exercício_EstruturaCondicional_II.csproj",
+      "projectPath": "/home/jefferson-dev/Documentos/cSharp-Dotnet/Exercício_EstruturaCondicional_II/Exercício_EstruturaCondicional_II.csproj",
       "packagesPath": "/home/jefferson-dev/.nuget/packages/",
-      "outputPath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/Exercício_EstruturaCondicional_II/obj/",
+      "outputPath": "/home/jefferson-dev/Documentos/cSharp-Dotnet/Exercício_EstruturaCondicional_II/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jefferson-dev/.nuget/NuGet/NuGet.Config"
