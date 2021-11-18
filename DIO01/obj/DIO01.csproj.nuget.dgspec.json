@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/DIO01/DIO01.csproj": {}
+    "/home/jefferson-dev/Documents/cSharp-DotNet/DIO01/DIO01.csproj": {}
   },
   "projects": {
-    "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/DIO01/DIO01.csproj": {
+    "/home/jefferson-dev/Documents/cSharp-DotNet/DIO01/DIO01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/DIO01/DIO01.csproj",
+        "projectUniqueName": "/home/jefferson-dev/Documents/cSharp-DotNet/DIO01/DIO01.csproj",
         "projectName": "DIO01",
-        "projectPath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/DIO01/DIO01.csproj",
+        "projectPath": "/home/jefferson-dev/Documents/cSharp-DotNet/DIO01/DIO01.csproj",
         "packagesPath": "/home/jefferson-dev/.nuget/packages/",
-        "outputPath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/DIO01/obj/",
+        "outputPath": "/home/jefferson-dev/Documents/cSharp-DotNet/DIO01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jefferson-dev/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

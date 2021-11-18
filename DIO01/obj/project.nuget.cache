@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KwTLNfn3VaOCD7jeKPdDe2sp7Ok/1Od1chec4ezHDSWdCxQViWL9jW2dC4ze0eCKXEE3R6KAkfi7FqH6bfS6DQ==",
+  "dgSpecHash": "aRi+f8DyavlVXETK59oc8NQv/F1/8+mMU+UzdAPx1P9i51dFVPOOh9ogLumzpiKtlvOfRhBXLRVFlm7PwbobiQ==",
   "success": true,
-  "projectFilePath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/DIO01/DIO01.csproj",
+  "projectFilePath": "/home/jefferson-dev/Documents/cSharp-DotNet/DIO01/DIO01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
