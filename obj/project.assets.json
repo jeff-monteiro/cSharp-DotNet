@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/NetCore.csproj",
+      "projectUniqueName": "/home/jefferson-dev/Documents/cSharp-DotNet/NetCore.csproj",
       "projectName": "NetCore",
-      "projectPath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/NetCore.csproj",
+      "projectPath": "/home/jefferson-dev/Documents/cSharp-DotNet/NetCore.csproj",
       "packagesPath": "/home/jefferson-dev/.nuget/packages/",
-      "outputPath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/obj/",
+      "outputPath": "/home/jefferson-dev/Documents/cSharp-DotNet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jefferson-dev/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }

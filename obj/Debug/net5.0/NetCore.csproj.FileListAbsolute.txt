@@ -22,3 +22,11 @@
 /home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/obj/Debug/net5.0/NetCore.dll
 /home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/obj/Debug/net5.0/ref/NetCore.dll
 /home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/obj/Debug/net5.0/NetCore.pdb
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.csproj.AssemblyReference.cache
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.AssemblyInfoInputs.cache
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.AssemblyInfo.cs
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.csproj.CoreCompileInputs.cache
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.dll
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/ref/NetCore.dll
+/home/jefferson-dev/Documents/cSharp-DotNet/obj/Debug/net5.0/NetCore.pdb

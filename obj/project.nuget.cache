@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJLyQ3G8nQy7o83iTiwIvvJjolxiFWBRfioUs09f4LYJDCaE+baiYQiLcKtJwvXQPQ93zXqs26q8EkxKEgb6DQ==",
+  "dgSpecHash": "lCzX/fcIJ2aMNRdC/XR9LAIhLf35lwmwPeWqRob8hS9HWiTZUGU3pkypQWuTa/gAMpFV78d/V2wFD6QrNQaiNA==",
   "success": true,
-  "projectFilePath": "/home/jefferson-dev/Documentos/Curso-LógicaDeProgramação/NetCore.csproj",
+  "projectFilePath": "/home/jefferson-dev/Documents/cSharp-DotNet/NetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

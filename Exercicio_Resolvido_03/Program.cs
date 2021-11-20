@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercício_EstruturaCondicional_II
+namespace Exercicio_Resolvido_03
 {
     class Program
     {
