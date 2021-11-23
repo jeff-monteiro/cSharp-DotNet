@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jefferson-dev/Documents/cSharp-DotNet/Exercício_Resolvido_03/Exercício_Resolvido_03.csproj",
-      "projectName": "Exercício_Resolvido_03",
-      "projectPath": "/home/jefferson-dev/Documents/cSharp-DotNet/Exercício_Resolvido_03/Exercício_Resolvido_03.csproj",
+      "projectUniqueName": "/home/jefferson-dev/Documents/cSharp-DotNet/Exercicio_Resolvido_03/Exercicio_Resolvido_03.csproj",
+      "projectName": "Exercicio_Resolvido_03",
+      "projectPath": "/home/jefferson-dev/Documents/cSharp-DotNet/Exercicio_Resolvido_03/Exercicio_Resolvido_03.csproj",
       "packagesPath": "/home/jefferson-dev/.nuget/packages/",
-      "outputPath": "/home/jefferson-dev/Documents/cSharp-DotNet/Exercício_Resolvido_03/obj/",
+      "outputPath": "/home/jefferson-dev/Documents/cSharp-DotNet/Exercicio_Resolvido_03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jefferson-dev/.nuget/NuGet/NuGet.Config"
