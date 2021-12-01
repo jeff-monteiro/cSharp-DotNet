@@ -6,7 +6,7 @@ namespace SecondChallengeDIO
     {
         static void Main(string[] args)
         {
-            double X, Y, distancia;
+            double X, Y;
 
             X = double.Parse(Console.ReadLine());
             Y = double.Parse(Console.ReadLine());
