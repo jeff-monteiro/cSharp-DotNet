@@ -1,0 +1,15 @@
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\bin\Debug\net6.0\somethingWentWrong.exe
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\bin\Debug\net6.0\somethingWentWrong.deps.json
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\bin\Debug\net6.0\somethingWentWrong.runtimeconfig.json
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\bin\Debug\net6.0\somethingWentWrong.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\bin\Debug\net6.0\ref\somethingWentWrong.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\bin\Debug\net6.0\somethingWentWrong.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.csproj.AssemblyReference.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.AssemblyInfoInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.AssemblyInfo.cs
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\ref\somethingWentWrong.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\somethingWentWrong\obj\Debug\net6.0\somethingWentWrong.genruntimeconfig.cache
