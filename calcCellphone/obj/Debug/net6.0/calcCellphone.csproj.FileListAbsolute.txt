@@ -1,0 +1,15 @@
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\bin\Debug\net6.0\calcCellphone.exe
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\bin\Debug\net6.0\calcCellphone.deps.json
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\bin\Debug\net6.0\calcCellphone.runtimeconfig.json
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\bin\Debug\net6.0\calcCellphone.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\bin\Debug\net6.0\ref\calcCellphone.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\bin\Debug\net6.0\calcCellphone.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.csproj.AssemblyReference.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.AssemblyInfoInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.AssemblyInfo.cs
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\ref\calcCellphone.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\calcCellphone\obj\Debug\net6.0\calcCellphone.genruntimeconfig.cache
