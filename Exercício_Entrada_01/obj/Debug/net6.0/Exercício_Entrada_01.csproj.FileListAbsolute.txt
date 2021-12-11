@@ -1,0 +1,15 @@
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\bin\Debug\net6.0\Exercício_Entrada_01.exe
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\bin\Debug\net6.0\Exercício_Entrada_01.deps.json
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\bin\Debug\net6.0\Exercício_Entrada_01.runtimeconfig.json
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\bin\Debug\net6.0\Exercício_Entrada_01.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\bin\Debug\net6.0\ref\Exercício_Entrada_01.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\bin\Debug\net6.0\Exercício_Entrada_01.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.csproj.AssemblyReference.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.AssemblyInfoInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.AssemblyInfo.cs
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\ref\Exercício_Entrada_01.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\Exercício_Entrada_01\obj\Debug\net6.0\Exercício_Entrada_01.genruntimeconfig.cache
