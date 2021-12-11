@@ -12,11 +12,11 @@ namespace media_Aluno{
             Console.WriteLine("Insira seu nome: ");
             nome = Console.ReadLine();
             Console.WriteLine("Nota av1: ");
-            av1 = double.Parse(Console.ReadLine());
+            av1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Nota av2: ");
-            av2 = double.Parse(Console.ReadLine());
+            av2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Nota av3: ");
-            av3 = double.Parse(Console.ReadLine());
+            av3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             mediaFinal = (av1 + av2 + av3) / 3;
 
