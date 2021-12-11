@@ -1,0 +1,15 @@
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\bin\Debug\net6.0\toCasting.exe
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\bin\Debug\net6.0\toCasting.deps.json
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\bin\Debug\net6.0\toCasting.runtimeconfig.json
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\bin\Debug\net6.0\toCasting.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\bin\Debug\net6.0\ref\toCasting.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\bin\Debug\net6.0\toCasting.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.csproj.AssemblyReference.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.AssemblyInfoInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.AssemblyInfo.cs
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\ref\toCasting.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\toCasting\obj\Debug\net6.0\toCasting.genruntimeconfig.cache
