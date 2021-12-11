@@ -1,0 +1,15 @@
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.csproj.AssemblyReference.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.AssemblyInfoInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.AssemblyInfo.cs
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\bin\Debug\net6.0\media_Aluno.exe
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\bin\Debug\net6.0\media_Aluno.deps.json
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\bin\Debug\net6.0\media_Aluno.runtimeconfig.json
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\bin\Debug\net6.0\media_Aluno.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\bin\Debug\net6.0\ref\media_Aluno.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\bin\Debug\net6.0\media_Aluno.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\ref\media_Aluno.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\media_Aluno\obj\Debug\net6.0\media_Aluno.genruntimeconfig.cache
