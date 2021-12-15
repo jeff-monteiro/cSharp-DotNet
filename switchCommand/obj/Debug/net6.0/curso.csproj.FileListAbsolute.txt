@@ -1,0 +1,15 @@
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\bin\Debug\net6.0\curso.exe
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\bin\Debug\net6.0\curso.deps.json
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\bin\Debug\net6.0\curso.runtimeconfig.json
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\bin\Debug\net6.0\curso.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\bin\Debug\net6.0\ref\curso.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\bin\Debug\net6.0\curso.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.csproj.AssemblyReference.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.AssemblyInfoInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.AssemblyInfo.cs
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\ref\curso.dll
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.pdb
+C:\Users\jeffm\Documents\cSharp-DotNet\switchCommand\obj\Debug\net6.0\curso.genruntimeconfig.cache

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffm\\Documents\\cSharp-DotNet\\switchCommand\\switchCommand.csproj",
-      "projectName": "switchCommand",
-      "projectPath": "C:\\Users\\jeffm\\Documents\\cSharp-DotNet\\switchCommand\\switchCommand.csproj",
+      "projectUniqueName": "C:\\Users\\jeffm\\Documents\\cSharp-DotNet\\switchCommand\\curso.csproj",
+      "projectName": "curso",
+      "projectPath": "C:\\Users\\jeffm\\Documents\\cSharp-DotNet\\switchCommand\\curso.csproj",
       "packagesPath": "C:\\Users\\jeffm\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jeffm\\Documents\\cSharp-DotNet\\switchCommand\\obj\\",
       "projectStyle": "PackageReference",
