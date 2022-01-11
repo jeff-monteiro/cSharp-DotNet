@@ -1,0 +1,15 @@
+/home/jefferson/Documents/cSharp-DotNet/Contador/bin/Debug/net6.0/Contador
+/home/jefferson/Documents/cSharp-DotNet/Contador/bin/Debug/net6.0/Contador.deps.json
+/home/jefferson/Documents/cSharp-DotNet/Contador/bin/Debug/net6.0/Contador.runtimeconfig.json
+/home/jefferson/Documents/cSharp-DotNet/Contador/bin/Debug/net6.0/Contador.dll
+/home/jefferson/Documents/cSharp-DotNet/Contador/bin/Debug/net6.0/ref/Contador.dll
+/home/jefferson/Documents/cSharp-DotNet/Contador/bin/Debug/net6.0/Contador.pdb
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.csproj.AssemblyReference.cache
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.AssemblyInfoInputs.cache
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.AssemblyInfo.cs
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.csproj.CoreCompileInputs.cache
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.dll
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/ref/Contador.dll
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.pdb
+/home/jefferson/Documents/cSharp-DotNet/Contador/obj/Debug/net6.0/Contador.genruntimeconfig.cache

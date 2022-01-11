@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XmROkJxZ6IGKq6L6BXSwya/EShCqi1p7lkHGO3iQcE29nETQ0nrbtLtABBOwcGQL1qsbXSu+aZhHehGrvl/4KA==",
+  "dgSpecHash": "NsaRBXTu/5ux37nkfzmWUKTcNhwrEh1LcxuV7twnlzjo/qyyzp3nvYxuF/JOFSwR/JcYuAbFyOkYqPA1BQKvCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeffm\\Documents\\cSharp-DotNet\\Contador\\Contador.csproj",
+  "projectFilePath": "/home/jefferson/Documents/cSharp-DotNet/Contador/Contador.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
